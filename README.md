@@ -9,6 +9,6 @@ Perintah Menjalankan  :
 
 $ apt update && apt upgrade
 $ pkg install git
-$ https://github.com/cexploit99/UserRecon
+$ git clone https://github.com/cexploit99/UserRecon
 $ cd UserRecon
 $ bash userrecon.sh
